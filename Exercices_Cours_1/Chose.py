@@ -23,3 +23,4 @@ print(f"La plus grande note est : {plus_grande}")  # 91
 
 masterclass="manger"
 len(masterclass)
+
