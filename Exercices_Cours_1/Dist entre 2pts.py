@@ -7,4 +7,4 @@ x2=input("X2 : ")
 y2=input("Y2 : ")
 print()
 import math
-print(f"Distance : {math.sqrt(()())}")
+print(f"Distance : {math.sqrt(((int(x2)-int(x1))**2)+((int(y2)-int(y1))**2)):.2f}")
