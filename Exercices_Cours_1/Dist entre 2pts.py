@@ -1,0 +1,10 @@
+print("Point A")
+x1=input("X1 : ")
+y1=input("Y1 : ")
+print()
+print("Point B")
+x2=input("X2 : ")
+y2=input("Y2 : ")
+print()
+import math
+print(f"Distance : {math.sqrt(()())}")

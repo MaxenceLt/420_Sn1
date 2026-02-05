@@ -1,0 +1,8 @@
+print()
+print("Pression systolique")
+print()
+x=input("Mesure du matin : ")
+y=input("Mesure du midi : ")
+z=input("Mesure du soir : ")
+print()
+print(f"Moyenne de la pression systolique : {(int(x)+int(y)+int(z))/3} mmHg")
