@@ -1,2 +1,3 @@
-def dire_bonjour("Alice")
-    print(f'Bonjoua}')
+def dire_bonjour():
+    print('Bonjour!')re_bonjour()
+
