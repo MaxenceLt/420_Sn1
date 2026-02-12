@@ -1,5 +1,9 @@
 def dire_bonjour(prenom):
-    print('Bonjour, {prenom}!')
+    print(f'Bonjour, {prenom}!')
 
-dire_bonjour("A")
+dire_bonjour("Alice")
+dire_bonjour("Dracula")
+dire_bonjour("Derek")
+dire_bonjour("Maxence")
+
 
