@@ -1,3 +1,5 @@
-def dire_bonjour():
-    print('Bonjour!')re_bonjour()
+def dire_bonjour(prenom):
+    print('Bonjour, {prenom}!')
+
+dire_bonjour("A")
 
